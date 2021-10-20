@@ -435,14 +435,14 @@ overlay-light .YTPOverlay:before {
   background-color: #ed5f5e;
   border: 1px solid #ed5f5e;
   box-shadow: inset 0 0 0 0 #e51b1a;
-  -webkit-box-shadow: inset 0 0 0 0 #e51b1a;
+  -webkit-box-shadow: inset 0 0 0 0 #149b35;
 }
 .btn-main.btn-theme:hover,
 .btn-main.btn-theme:focus,
 .btn-main.btn-theme:active,
 .btn-main.btn-theme .active {
   box-shadow: inset 0 100px 0 0 #e51b1a;
-  -webkit-box-shadow: inset 0 100px 0 0 #e51b1a;
+  -webkit-box-shadow: inset 0 100px 0 0 #149b35;
   border: 1px solid #e51b1a;
 }
 .btn-main.btn-transparent {
